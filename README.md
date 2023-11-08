@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1><center> Hi there 👋</center></h1>
 
 ### 👨‍💻 About me
 
