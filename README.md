@@ -1,5 +1,5 @@
  <h1>Hi there 👋</center></h1>
-![](https://komarev.com/ghpvc/?username=DhyanMoradiya)
+<img src="https://komarev.com/ghpvc/?username=DhyanMoradiya&&style=flat-square">
  
  ### 👨‍💻 About me
 
