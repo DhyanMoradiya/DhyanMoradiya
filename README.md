@@ -3,10 +3,10 @@
  
  ### 👨‍💻 About me
 
- I'm Dhyan Moradiya, a passionate **`Web Developer`** and **`App Developer`** fluent in the language of the internet. My journey began with HTML, CSS, 
+ I'm Dhyan Moradiya, a passionate ***Web Developer*** and ***App Developer*** fluent in the language of the internet. My journey began with HTML, CSS, 
  and JavaScript, where I built the foundation of my expertise.
 
-- 🔭 I’m working as Web developer and contribute in webdevelopment with ASP.NET core, Angular Js and PHP
+- 🔭 I’m working as Web developer and contribute in webdevelopment with `ASP.NET core`, `Angular Js` and `PHP`
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LilnkedIn-  -f39f37"></img>](https://www.linkedin.com/in/dhyan-moradiya-850147246)
 
   <br>
