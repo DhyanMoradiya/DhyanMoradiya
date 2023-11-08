@@ -42,9 +42,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
   </p>-->
 
-<br>
+
 <hr>
-<br>
+
 
  🚀 I'm currently honing my craft, exploring new technologies, and seeking innovative ways to merge design with functionality.
 
