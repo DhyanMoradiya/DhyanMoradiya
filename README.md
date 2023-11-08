@@ -1,4 +1,4 @@
-<h1><center> Hi there 👋</center></h1>
+<h1 color="#FFFFFF"> Hi there 👋</center></h1>
 
 ### 👨‍💻 About me
 
