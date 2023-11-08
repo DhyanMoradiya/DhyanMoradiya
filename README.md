@@ -1,29 +1,30 @@
  <h1>Hi there 👋</center></h1>
-
+![](https://komarev.com/ghpvc/?username=DhyanMoradiya)
+ 
  ### 👨‍💻 About me
 
- I'm Dhyan Moradiya, a passionate Web Developer and App Developer fluent in the language of the internet. My journey began with HTML, CSS, 
+ I'm Dhyan Moradiya, a passionate **`Web Developer`** and **`App Developer`** fluent in the language of the internet. My journey began with HTML, CSS, 
  and JavaScript, where I built the foundation of my expertise.
 
-- 🔭 I’m working as Web developer and contrinute in webdevelopment with ASP.NET core, Angular Js and PHP
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-Dhyan Moradiya-f39f37"></img>](https://www.linkedin.com/in/dhyan-moradiya-850147246)
+- 🔭 I’m working as Web developer and contribute in webdevelopment with ASP.NET core, Angular Js and PHP
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/LilnkedIn-  -f39f37"></img>](https://www.linkedin.com/in/dhyan-moradiya-850147246)
 
   <br>
 ### 💻 Proficient in:
 
-- **HTML, CSS, JavaScript** for crafting beautiful, interactive web experiences.
-- **Node.js** for server-side applications, leveraging its power for robust back-end development.
-- **AngularJS** for creating dynamic and scalable web applications.
-- **PHP** for server scripting and web development.
-- **.NET Core 7** for high-performance, cross-platform applications.
+- **`HTML, CSS, JavaScript`** for crafting beautiful, interactive web experiences.
+- **`Node.js`** for server-side applications, leveraging its power for robust back-end development.
+- **`AngularJS`** for creating dynamic and scalable web applications.
+- **`PHP`** for server scripting and web development.
+- **`.NET Core 7`** for high-performance, cross-platform applications.
 
 <br>
 
 ### 🌟 Beyond these, I'm also well-versed in foundational languages like:
-- **C and C++** for system-level programming and software development.
-- **Java** for its versatility in creating applications and services.
-- **Python** for its simplicity and versatility across various domains.
-- **C#** for its use in game development, Windows applications, and more.
+- **`C and C++`** for system-level programming and software development.
+- **`Java`** for its versatility in creating applications and services.
+- **`Python`** for its simplicity and versatility across various domains.
+- **`C#`** for its use in game development, Windows applications, and more.
 
   <!--  <br>
     <hr>
