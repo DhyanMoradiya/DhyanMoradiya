@@ -1,7 +1,7 @@
- <h1>Hi there 👋</center></h1>
+<h1 align="center">Hi there 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=DhyanMoradiya&&style=plastic">
  
- ### 👨‍💻 About me
+ ###  👨‍💻 &nbsp; About me
 
  I'm Dhyan Moradiya, a passionate ***Web Developer*** and ***App Developer*** fluent in the language of the internet. My journey began with HTML, CSS, 
  and JavaScript, where I built the foundation of my expertise.
@@ -10,7 +10,7 @@
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LilnkedIn-  -f39f37"></img>](https://www.linkedin.com/in/dhyan-moradiya-850147246)
 
   <br>
-### 💻 Proficient in:
+### 💻 &nbsp; Proficient in:
 
 - **`HTML, CSS, JavaScript`** for crafting beautiful, interactive web experiences.
 - **`Node.js`** for server-side applications, leveraging its power for robust back-end development.
@@ -26,22 +26,25 @@
 - **`Python`** for its simplicity and versatility across various domains.
 - **`C#`** for its use in game development, Windows applications, and more.
 
-  <!--  <br>
-    <hr>
-    <br>
+<hr>
 
-   ### 🛠 Languages and Tools:
-  <p>
-    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></img>
-    <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></img>
-  </p>-->
-
+### 🛠 &nbsp;Languages and Tools :
+ <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+</p>
 
 <hr>
 
