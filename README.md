@@ -7,7 +7,7 @@
  and JavaScript, where I built the foundation of my expertise.
 
 - 🔭 I’m working as Web developer and contribute in webdevelopment with `ASP.NET core`, `Angular Js` and `PHP`
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LilnkedIn-  -f39f37"></img>](https://www.linkedin.com/in/dhyan-moradiya-850147246)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/LilnkedIn-  -065dc7"></img>](https://www.linkedin.com/in/dhyan-moradiya) [<img src="https://img.shields.io/badge/Instagram-  -d60092"></img>](https://www.instagram.com/dhyan.moradiya)
 
   <br>
 ### 💻 &nbsp; Proficient in:
