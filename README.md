@@ -26,7 +26,7 @@
 - **`Python`** for its simplicity and versatility across various domains.
 - **`C#`** for its use in game development, Windows applications, and more.
 
-<hr>
+<!--<hr>
 
 ### 🛠 &nbsp;Languages and Tools :
  <p>
@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-</p>
+</p> -->
 
 <hr>
 
