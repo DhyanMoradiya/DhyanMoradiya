@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=DhyanMoradiya&&style=plastic">
-[![](https://visitcount.itsvg.in/api?id=DhyanMoradiya&icon=1&color=0)](https://visitcount.itsvg.in)
  
- ###  👨‍💻 &nbsp; About me
+ ###  👨‍💻 About me
 
  I'm Dhyan Moradiya, a passionate ***Web Developer*** and ***App Developer*** fluent in the language of the internet. My journey began with HTML, CSS, 
  and JavaScript, where I built the foundation of my expertise.
@@ -11,11 +9,11 @@
 <br>
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DhyanMoradiya01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhyan.moradiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyan-moradiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DhyanMoradiya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyan-moradiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhyan.moradiya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/DhyanMoradiya) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DhyanMoradiya01)
 <br>
 <br>
 
-### 💻 &nbsp; Proficient in:
+### 💻 Proficient in:
 
 - **`HTML, CSS, JavaScript`** for crafting beautiful, interactive web experiences.
 - **`Node.js`** for server-side applications, leveraging its power for robust back-end development.
@@ -44,16 +42,13 @@
 
 🔗 Let's connect, collaborate, and create together. Feel free to explore my repositories and reach out for any exciting ventures or discussions.
 
-
+<hr>
 <br>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhyanMoradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyanMoradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DhyanMoradiya&theme=dark&hide_border=false)
-
-
----
+![](https://github-readme-stats.vercel.app/api?username=DhyanMoradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhyanMoradiya&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyanMoradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
