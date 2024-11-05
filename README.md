@@ -9,9 +9,10 @@
 <br>
 
 ### 🌐 Socials:
-🌐 [![DhyanMoradiya]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://dhyanmoradiya.vercel.app/))]
-<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyan-moradiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhyan.moradiya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/DhyanMoradiya) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DhyanMoradiya01)
+<br>
+🌐 [DhyanMoradiya](https://dhyanmoradiya.vercel.app/)
 <br>
 <br>
 
