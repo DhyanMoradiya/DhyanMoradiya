@@ -17,9 +17,8 @@
 
 - **`HTML, CSS, JavaScript`** for crafting beautiful, interactive web experiences.
 - **`Node.js`** for server-side applications, leveraging its power for robust back-end development.
-- **`AngularJS`** for creating dynamic and scalable web applications.
-- **`PHP`** for server scripting and web development.
-- **`.NET Core 7`** for high-performance, cross-platform applications.
+- **`Angular`** for creating dynamic and scalable web applications.
+- **`.NET Core 8`** for high-performance, cross-platform applications.
 
 <br>
 
