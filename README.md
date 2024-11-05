@@ -5,7 +5,7 @@
  I'm Dhyan Moradiya, a passionate ***Web Developer*** and ***App Developer*** fluent in the language of the internet. My journey began with HTML, CSS, 
  and JavaScript, where I built the foundation of my expertise.
 
-- 🔭 I’m working as Web developer and contribute in webdevelopment with `ASP.NET core`, `Angular Js` and `PHP`
+- 🔭 I’m working as Web developer and contribute in webdevelopment with `ASP.NET core 8`, `Angular 16` and `Flutter`
 <br>
 
 ### 🌐 Socials:
@@ -16,8 +16,8 @@
 ### 💻 Proficient in:
 
 - **`HTML, CSS, JavaScript`** for crafting beautiful, interactive web experiences.
-- **`Node.js`** for server-side applications, leveraging its power for robust back-end development.
-- **`Angular`** for creating dynamic and scalable web applications.
+- **`Flutter`** for cross-plate form application developmet (Android + IOS).
+- **`Angular 16`** for creating dynamic and scalable web applications.
 - **`.NET Core 8`** for high-performance, cross-platform applications.
 
 <br>
